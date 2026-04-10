@@ -17,3 +17,12 @@ Thank you for your interest in contributing!
 - Write clean, readable code
 - Add comments where necessary
 - Follow standard HTML/CSS conventions
+
+## Testing Policy
+As new functionality is added to the project, corresponding tests 
+should be added to ensure quality and stability:
+
+- All new HTML pages must be validated using the W3C HTML Validator
+- Any new features must pass the existing CI pipeline before merging
+- Automated tests are run on every push and pull request via 
+  GitHub Actions
