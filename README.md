@@ -1,3 +1,8 @@
 # DanWateran.github.io
 Test Website for Lab 4 - OpenSSF
-![GOAT](images.png)
+
+## About This Project
+
+This is my personal website built with HTML and hosted on GitHub Pages. 
+It serves as a portfolio to showcase my projects, skills, and experience 
+as a developer.
