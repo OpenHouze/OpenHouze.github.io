@@ -1,4 +1,5 @@
 [![OpenSSF Best Practices](https://www.bestpractices.dev/projects/12443/badge)](https://www.bestpractices.dev/projects/12443)
+[![OpenSSF Scorecard](https://api.securityscorecards.dev/projects/github.com/OpenHouze/OpenHouze.github.io/badge)](https://securityscorecards.dev/viewer/?uri=github.com/OpenHouze/OpenHouze.github.io)
 
 # DanWateran.github.io
 Test Website for Lab 4 - OpenSSF
