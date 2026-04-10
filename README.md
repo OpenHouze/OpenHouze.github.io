@@ -55,3 +55,11 @@ No configuration is required to run this project.
 - Microsoft Edge
 - Safari
 
+## Testing
+
+This project uses the W3C HTML Validator to automatically validate HTML files.
+
+### How to Run Tests
+You can validate the HTML by visiting:
+https://validator.w3.org/nu/?doc=https://openhouze.github.io
+
